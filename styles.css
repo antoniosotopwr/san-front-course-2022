@@ -23,7 +23,7 @@ button {
   font-size: 0;
   font-family: sans-serif;
 }
-.display {
+.li--display {
   display: inline;
   margin: 0 25px;
 }
